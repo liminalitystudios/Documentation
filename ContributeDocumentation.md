@@ -2,7 +2,7 @@
 
 We welcome all those with experties to coloborate in our projedts. We have also posted the following guidelines in insure that all projects are being met with the proper software procedures to insure all work is protected.
 
-1. You must be able to adhere to Software Development rules and guidelines. This includes phases of software development and software testing methodologies. Please note while we will not ask you to be experts at this, we will be asking you to follow the guidelines as set forth in projects. More information can be obtained via the links below...
+1. You must be able to adhere to Software Development rules and guidelines. This includes phases of software development and software testing methodologies. Please note while we will not ask you to be experts at this, we will be asking you to follow the guidelines as set forth in projects. More information can be obtained via Wikipedia links below...
 
 Information on Software Development Methodologies
 https://en.wikipedia.org/wiki/Software_development_process
